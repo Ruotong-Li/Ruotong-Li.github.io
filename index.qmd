@@ -6,6 +6,10 @@ title: "Home"
 
 *Ph.D. Student in Applied Economics, University of Minnesota*
 
-- I study agri-food value chains, labor markets, and development economics.  
+I study agri-food value chains, labor markets, and development economics.  
+My work explores how market structures, labor dynamics, and public policy shape economic opportunities and sustainability.
+
+- 🌾 I use data-driven methods — econometrics, simulation, and network modeling — to study global food systems.  
+- 👩‍💻 I also contribute to projects on early childhood education, women’s employment, and labor mobility in the Middle East.
 
 📄 [View my GitHub profile](https://github.com/Ruotong-Li)

@@ -5,7 +5,20 @@ title: "Research"
 # Research
 
 ## Working Papers
-- **Title A** — 
 
-## Projects & Repos
-- **Project B** —
+- **Married Women’s Wage Share and Household Dietary Quality**  
+  *With Shenggen Fan and Qiran Zhao.*  
+  Examines how changes in married women’s contribution to household earnings affect dietary quality.  
+  The analysis exploits regional variation in minimum wage policies as an instrumental variable.
+
+- **The Effects of China’s Minimum Wage: Who Thrives and Who Struggles Among Rural Migrant Workers?**  
+  *With Qiran Zhao and Shenggen Fan.*  
+  Investigates how the introduction and periodic adjustment of minimum wage regulations influence the employment, earnings, and well-being of rural migrant workers.
+
+---
+
+## Projects & Repositories
+
+- **A**  
+
+- **B**

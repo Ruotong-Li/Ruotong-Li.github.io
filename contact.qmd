@@ -4,6 +4,6 @@ title: "Contact"
 
 # Contact
 
-- Email: li003741@umn.edu  
-- GitHub: <https://github.com/Ruotong-Li>  
-- Department: University of Minnesota, APEC
+📧 **Email:** li003741@umn.edu  
+💻 **GitHub:** [https://github.com/Ruotong-Li](https://github.com/Ruotong-Li)  
+🏫 **Department:** Applied Economics, University of Minnesota
