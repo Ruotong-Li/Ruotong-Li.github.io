@@ -5,11 +5,7 @@ title: "Research"
 # Research
 
 ## Working Papers
-- **Title A** — one-sentence summary.  
-  Code: <https://github.com/yourusername/project-a>
+- **Title A** — 
 
 ## Projects & Repos
-- **Project B** — short description.  
-  Repo: <https://github.com/yourusername/project-b>
-
-More on my GitHub profile: <https://github.com/yourusername>
+- **Project B** —

@@ -2,12 +2,10 @@
 title: "Home"
 ---
 
-# Hello, I’m Your Name
+# Hello, I’m Ruotong Li
 
-*Applied Economist • Data Scientist*
+*Ph.D. Student in Applied Economics, University of Minnesota*
 
-- I study ...
-- I teach ...
-- I build ...
+- I study agri-food value chains, labor markets, and development economics.  
 
-Explore my **[research](research.qmd)** or **[get in touch](contact.qmd)**.
+📄 [View my GitHub profile](https://github.com/Ruotong-Li)
