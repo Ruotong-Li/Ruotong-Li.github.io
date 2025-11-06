@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hello, I’m Your Name\nApplied Economist • Data Scientist\n\nI study …\nI teach …\nI build …\n\nExplore my research or get in touch."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Title A — one-sentence summary.\nCode: https://github.com/yourusername/project-a\n\n\n\n\n\nProject B — short description.\nRepo: https://github.com/yourusername/project-b\n\nMore on my GitHub profile: https://github.com/yourusername"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Title A — one-sentence summary.\nCode: https://github.com/yourusername/project-a"
+  },
+  {
+    "objectID": "research.html#projects-repos",
+    "href": "research.html#projects-repos",
+    "title": "Research",
+    "section": "",
+    "text": "Project B — short description.\nRepo: https://github.com/yourusername/project-b\n\nMore on my GitHub profile: https://github.com/yourusername"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\n\nEmail: youremail@umn.edu\n\nGitHub: https://github.com/yourusername\n\nDepartment: University of Minnesota, APEC"
+  }
+]

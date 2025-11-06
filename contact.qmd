@@ -1,0 +1,9 @@
+---
+title: "Contact"
+---
+
+# Contact
+
+- Email: youremail@umn.edu  
+- GitHub: <https://github.com/yourusername>  
+- Department: University of Minnesota, APEC

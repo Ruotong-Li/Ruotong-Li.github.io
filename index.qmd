@@ -1,0 +1,13 @@
+---
+title: "Home"
+---
+
+# Hello, I’m Your Name
+
+*Applied Economist • Data Scientist*
+
+- I study ...
+- I teach ...
+- I build ...
+
+Explore my **[research](research.qmd)** or **[get in touch](contact.qmd)**.
